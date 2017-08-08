@@ -1,0 +1,3 @@
+degrees_fahrenheit=102
+degrees_celsius=(degrees_fahrenheit-32)/1.8
+print(degrees_celsius)
